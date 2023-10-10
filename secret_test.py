@@ -18,3 +18,8 @@ def randomString(stringLength=10):
 best_key = "?sv=2022-11-02&ss=bfqt&srt=c&sp=rwdlacupiytfx&se=2023-10-11T06:24:53Z&st=2023-10-10T22:24:53Z&spr=https&sig=X%2BKypEjLTi081FeXzJqGwwbixBZEuro1e4Zi1WxKuX8%3D"
 
 print(best_key)
+
+
+key = "?sv=2022-11-02&ss=bfqt&srt=c&sp=rwdlacupiytfx&se=2023-10-11T06:24:53Z&st=2023-10-10T22:24:53Z&spr=https&sig=X%2BKypEjLTi081FeXzJqGwwbixBZEuro1e4Zi1WxKuX8%3D"
+
+new_key = "+GJw+6o3TMI35INO4JzVB9NpJLJnrxjCvLbSJAzbLdcpNHhqp8gCNPsXI0jp4QfeHL2nOO8KOoZQ+AStF0NkEQ=="
